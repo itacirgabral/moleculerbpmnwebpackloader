@@ -6,3 +6,5 @@ this is my shitcode while reading [Process-Driven Applications with BPMN](https:
 ```javascript
 const {  } = require('moleculerbpmn!./main.bpmn')
 ```
+
+inspired by [zeebe](https://docs.zeebe.io/)
